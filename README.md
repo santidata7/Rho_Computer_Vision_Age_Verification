@@ -1,3 +1,4 @@
+<img width="1280" height="640" alt="rho_estimacion-edad" src="https://github.com/user-attachments/assets/b2a39f8d-6f68-4153-93e9-86d7ff7afe47" />
 # Rho - Age Estimation With ResNet50
 
 ## Descripción del proyecto
